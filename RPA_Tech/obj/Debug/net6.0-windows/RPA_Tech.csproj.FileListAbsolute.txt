@@ -1,0 +1,14 @@
+C:\Users\Daniel\workspace\serverside\RPA_Tech\RPA_Tech\bin\Debug\net6.0-windows\RPA_Tech.exe
+C:\Users\Daniel\workspace\serverside\RPA_Tech\RPA_Tech\bin\Debug\net6.0-windows\RPA_Tech.deps.json
+C:\Users\Daniel\workspace\serverside\RPA_Tech\RPA_Tech\bin\Debug\net6.0-windows\RPA_Tech.runtimeconfig.json
+C:\Users\Daniel\workspace\serverside\RPA_Tech\RPA_Tech\bin\Debug\net6.0-windows\RPA_Tech.dll
+C:\Users\Daniel\workspace\serverside\RPA_Tech\RPA_Tech\bin\Debug\net6.0-windows\ref\RPA_Tech.dll
+C:\Users\Daniel\workspace\serverside\RPA_Tech\RPA_Tech\bin\Debug\net6.0-windows\RPA_Tech.pdb
+C:\Users\Daniel\workspace\serverside\RPA_Tech\RPA_Tech\obj\Debug\net6.0-windows\RPA_Tech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\workspace\serverside\RPA_Tech\RPA_Tech\obj\Debug\net6.0-windows\RPA_Tech.AssemblyInfoInputs.cache
+C:\Users\Daniel\workspace\serverside\RPA_Tech\RPA_Tech\obj\Debug\net6.0-windows\RPA_Tech.AssemblyInfo.cs
+C:\Users\Daniel\workspace\serverside\RPA_Tech\RPA_Tech\obj\Debug\net6.0-windows\RPA_Tech.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\workspace\serverside\RPA_Tech\RPA_Tech\obj\Debug\net6.0-windows\RPA_Tech.dll
+C:\Users\Daniel\workspace\serverside\RPA_Tech\RPA_Tech\obj\Debug\net6.0-windows\ref\RPA_Tech.dll
+C:\Users\Daniel\workspace\serverside\RPA_Tech\RPA_Tech\obj\Debug\net6.0-windows\RPA_Tech.pdb
+C:\Users\Daniel\workspace\serverside\RPA_Tech\RPA_Tech\obj\Debug\net6.0-windows\RPA_Tech.genruntimeconfig.cache
