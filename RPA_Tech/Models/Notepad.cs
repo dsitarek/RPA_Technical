@@ -34,7 +34,6 @@ namespace RPA_Tech.Models
 
         public Process getNotepad()
         {
-            Process[] localAll = Process.GetProcesses();
             Process notepad = new Process();
 
             Process[] processes = Process.GetProcessesByName("notepad");
